@@ -30,4 +30,4 @@ Julia is all about speed, right. How to optimise the code to run faster?
 ### Notes
 Coding guidelines - All functions should have docstrings right from the start. Try to use the features of the language to improve readability.
 
-Licensed under [MIT](LICENSE.txt) terms
+Licensed under [MIT](LICENSE) terms
