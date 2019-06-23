@@ -5,7 +5,7 @@ This project is totally inspired by the video:
 
 [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)) is a board game where players buy and trade properties, developing them with houses and hotels. Players collect rent from their opponents, with the goal being to drive them into bankruptcy.
 
-In the youtube video, mathematicians [Matt Parker](http://standupmaths.com) and [Hannah Fry](http://www.hannahfry.co.uk) go through some Python code to simulate the game. I aim to do similar but with the new upcoming language [Julia](https://julialang.org)
+In the youtube video, mathematicians Matt Parker and Hannah Fry go through some Python code to simulate the game. I aim to do similar but with the new upcoming language [Julia](https://julialang.org)
 
 ### Goals
 #### 1. Use Julia (https://julialang.org)
